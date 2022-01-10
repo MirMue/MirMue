@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MirMue
-- 👀 I’m interested in Python, C# and all kinds of games
+- 👀 I’m interested in Python and C# for now
 - 🌱 I’m currently learning C#
-- 💞️ I’m looking to collaborate on games created with Python or the Unity engine
+- 💞️ Right now I’m looking to collaborate on games created with Python or the Unity engine
 - 📫 How to reach me ... (I'll put something here later)
 
 <!---
