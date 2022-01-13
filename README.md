@@ -2,7 +2,7 @@ Want: I'd like to broaden my perspective by working on different projects and co
 
 Got: I got some experience in Python and Data Science. Also XML, for what it's worth.
 
-Current Job: Right now I'm working on a project in Digital Humanities, mainly with XML-TEI.
+Current Job: Right now I'm working on a project in Digital Humanities, mainly with XML-TEI, html and CSS.
 
 <!---
 MirMue/MirMue is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
